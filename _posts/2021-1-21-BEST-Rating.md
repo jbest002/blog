@@ -4,7 +4,6 @@ title:  "BEST Rating System "
 date:   2021-01-21 17:31:35 -0500
 categories: TV Shows
 ---
-# **BEST** Rating System
 Rating system to categorize my favorite TV shows and movies! 10 points for each category (BEST), and the average will be calculated to determine the show's or movie's overall rank.
 ## **B**eginning
 It normally takes me the 1st scene to know if a movie or TV show is worth watching. It needs to grasps the viewer's attention within the first 10 seconds. In this category, I will take into account the theme song, pilot episode, and the trailer.
