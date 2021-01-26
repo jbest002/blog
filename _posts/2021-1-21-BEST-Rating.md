@@ -6,7 +6,7 @@ categories: TV Shows
 ---
 I enjoy watching TV and movies in my free time. I have watched so many great TV shows and films over the years, and I wanted to create a way for me to rank them. I decided to create the **BEST** Rating system to categorize my favorite TV shows and movies! 10 points for each category (BEST), and the average will be calculated to determine the show's or movie's overall rank.
 ## <ins>**B**</ins>eginning
-It normally takes me the 1st scene to know if a movie or TV show is worth watching. It needs to grasps the viewer's attention within the first 10 seconds. In this category, I will take into account the theme song, pilot episode, and the trailer.
+It normally takes me the 1st scene to know if a movie or TV show is worth watching. It needs to grasps the viewer's attention within the first 10 minutes. In this category, I will take into account the theme song, pilot episode, and the trailer.
 ## <ins>**E**</ins>nsemble
 The cast is one of the most important parts of making a project happen. Without the actors there would be no movie or TV show. I will evaluate the cast chemistry as well as the individual characters and their arcs.
 ## <ins>**S**</ins>toryline
