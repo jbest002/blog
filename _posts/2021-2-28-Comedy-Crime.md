@@ -28,7 +28,7 @@ I applaud the writers for creating such wonderful scripts that allow each actor 
 
 
 # Psych
-<span style="display:block;text-align:center"> ![Psych](/images/psych.jpg) </span>
+<span style="display:block;text-align:center"> ![Psych](images/psych.jpg) </span>
 
 ## <ins>**B**</ins>eginning
 Psych was a series on the USA Network that started in 2006 and ended in 2014. I learned about the show through a promotional video staring Adrian Monk. Once watching the trailer, I knew I would like it because it had a very similar premise to Monk the tv show. The pilot episode, titled **Psych** , gives us a glipse at the characters and what the show will be about. The epsiode deals with Shawn convincing the Santa Barbara police department that he is psychic and can help solve crimes. Just  like Monk he has an extraordinary ability to see clues that no one can see, so I was invested at this point.  I also like how they begin most episodes with a flashback of Shawn and/or Gus when they were younger which often forshadows the major plots in the episode. The theme song ,[I Know You Know](https://youtu.be/zyR-tE0siwY) by the Friendly Indians, is great and I love how the show creates different versions of the song depending on the theme of the episode. For example, whenever they have a Christmas episode there is a Christmas altered theme song, the Mexico and Telenovela episodes had a Spanish version, and my favorite version has to be Boys II Men Acappella used in the two episodes staring Gus' friends in an Acappella group. <br/>
@@ -96,6 +96,6 @@ plt.xlabel("TV Shows")
 plt.ylabel("Ratings")
 plt.show()
 ```
-<span style="display:block;text-align:center"> ![rank](/images/rank.png) </span>
+<span style="display:block;text-align:center"> ![rank](images/rank.png) </span>
 
 The graph shows that my favorite show is Psych with Monk coming in a close second and Izombie coming in third on my list of my top favorite Comedy-Crime TV Shows. 
