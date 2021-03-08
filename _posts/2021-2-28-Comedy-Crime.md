@@ -8,7 +8,7 @@ Recap from the last blog post: I enjoy watching TV and movies in my free time. I
 <span style="display:block;text-align:center"> ![Opinion Gif](https://media.giphy.com/media/fqo0kbmVpcZLEoLaqG/giphy.gif) </span>
 
 # Monk
-<span style="display:block;text-align:center"> ![Monk](monk.jpg) </span>
+<span style="display:block;text-align:center"> ![Monk](images/monk.jpg) </span>
 
 ## <ins>**B**</ins>eginning
 Monk was a series on the USA Network that started in 2002 and ended in 2009. Since I was five years old when the show first started, I begin watching later on when I was around 10 because my mom used to watch and enjoy the show. I instantly loved the show from the pilot episode. The pilot was titled **Mr. Monk and the Candidate**, and the main premise dealt with Monk trying to investigate an assasination attempt on the mayor. The episode definitely grasped my attention as I was able to see Monk with all his quirks and extraordinary abilities to see clues and I have been hooked ever since. I also have to point out the wonderful theme song, [It's A Jungle Out There](https://youtu.be/7j5Be5a86uA), by Randy Newman. The theme song wasn't apart of the the show until season 2, but it will always be a bop and I can’t believe how relevant the song is today! <br/>
