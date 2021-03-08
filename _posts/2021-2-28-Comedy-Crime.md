@@ -8,7 +8,7 @@ Recap from the last blog post: I enjoy watching TV and movies in my free time. I
 <span style="display:block;text-align:center"> ![Opinion Gif](https://media.giphy.com/media/fqo0kbmVpcZLEoLaqG/giphy.gif) </span>
 
 # Monk
-<span style="display:block;text-align:center"> ![Monk](https://github.com/jbest002/blog/blob/6b628be7bf64d20f9f55eee49a5908e614fe03d6/images/monk.jpg) </span>
+<span style="display:block;text-align:center"> ![Monk](images/monk.jpg) </span>
 
 ## <ins>**B**</ins>eginning
 Monk was a series on the USA Network that started in 2002 and ended in 2009. Since I was five years old when the show first started, I begin watching later on when I was around 10 because my mom used to watch and enjoy the show. I instantly loved the show from the pilot episode. The pilot was titled **Mr. Monk and the Candidate**, and the main premise dealt with Monk trying to investigate an assasination attempt on the mayor. The episode definitely grasped my attention as I was able to see Monk with all his quirks and extraordinary abilities to see clues and I have been hooked ever since. I also have to point out the wonderful theme song, [It's A Jungle Out There](https://youtu.be/7j5Be5a86uA), by Randy Newman. The theme song wasn't apart of the the show until season 2, but it will always be a bop and I can’t believe how relevant the song is today! <br/>
@@ -28,7 +28,7 @@ I applaud the writers for creating such wonderful scripts that allow each actor 
 
 
 # Psych
-<span style="display:block;text-align:center"> ![Psych](https://github.com/jbest002/blog/blob/6b628be7bf64d20f9f55eee49a5908e614fe03d6/images/psych.jpg) </span>
+<span style="display:block;text-align:center"> ![Psych](/images/psych.jpg) </span>
 
 ## <ins>**B**</ins>eginning
 Psych was a series on the USA Network that started in 2006 and ended in 2014. I learned about the show through a promotional video staring Adrian Monk. Once watching the trailer, I knew I would like it because it had a very similar premise to Monk the tv show. The pilot episode, titled **Psych** , gives us a glipse at the characters and what the show will be about. The epsiode deals with Shawn convincing the Santa Barbara police department that he is psychic and can help solve crimes. Just  like Monk he has an extraordinary ability to see clues that no one can see, so I was invested at this point.  I also like how they begin most episodes with a flashback of Shawn and/or Gus when they were younger which often forshadows the major plots in the episode. The theme song ,[I Know You Know](https://youtu.be/zyR-tE0siwY) by the Friendly Indians, is great and I love how the show creates different versions of the song depending on the theme of the episode. For example, whenever they have a Christmas episode there is a Christmas altered theme song, the Mexico and Telenovela episodes had a Spanish version, and my favorite version has to be Boys II Men Acappella used in the two episodes staring Gus' friends in an Acappella group. <br/>
@@ -47,7 +47,7 @@ Psych has a good balance of comedic and dramatic dialogue. Shawn has some great 
 <ins>**Rating: 9.5**</ins>
 
 # Izombie
-<span style="display:block;text-align:center"> ![Izombie](https://github.com/jbest002/blog/blob/6b628be7bf64d20f9f55eee49a5908e614fe03d6/images/IZombiecast.jpeg) </span>
+<span style="display:block;text-align:center"> ![Izombie](images/IZombiecast.jpeg) </span>
 
 ## <ins>**B**</ins>eginning
 Izombie was a series on the CW Network that started in 2015 and ended in 2019. I stumbled upon the show when it was released on Netflix. I watched the trailer and wasn't really drawn into the show initially because I thought it was kind of boring. I gave it a try based on it being popular on Netflix, and was interested in the overall premise. The pilot episode  introduces Liv Moore ,a medical student, who gets turned into a zombie at a party and then takes a job at a coroner's office to be able to eat brains. When she eats the brains she has visions, and flashes of dreams or memories of the victim which allow her to solve crimes. The solving crimes part really got me interested and I stayed for the unique twist of her having the ability to see visions from the point of view of the victim. Also, she kind of embodies the victim in some ways taking on their mannerisms and personalities which made the show more fascinating. The theme song is [Stop, I'm Already Dead](https://youtu.be/Lu5nXAuBMfk) by Deadboy & the Elephantmen. I enjoy the theme song here and there, but would most likely skip past it while watching the show. <br/>
@@ -96,6 +96,6 @@ plt.xlabel("TV Shows")
 plt.ylabel("Ratings")
 plt.show()
 ```
-<span style="display:block;text-align:center"> ![rank](https://github.com/jbest002/blog/blob/6b628be7bf64d20f9f55eee49a5908e614fe03d6/images/rank.png) </span>
+<span style="display:block;text-align:center"> ![rank](/images/rank.png) </span>
 
 The graph shows that my favorite show is Psych with Monk coming in a close second and Izombie coming in third on my list of my top favorite Comedy-Crime TV Shows. 
